@@ -1,0 +1,36 @@
+Uri: https://terminal.jup.ag/main-v3.js
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\main-v3.js
+Content Type: application/javascript
+
+Uri: https://www.mopesol.com/
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\index.htm
+Content Type: text/html
+
+Uri: https://www.mopesol.com/logo.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\logo.png
+Content Type: image/png
+
+Uri: https://www.mopesol.com/logo.webp
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\logo.webp
+Content Type: image/webp
+
+Uri: https://www.mopesol.com/manifest.json
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.mopesol.com/static/css/main.c3b651d8.css
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\static\css\main.c3b651d8.css
+Content Type: text/css
+
+Uri: https://www.mopesol.com/static/js/main.94064964.js
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\static\js\main.94064964.js
+Content Type: application/javascript
+
+Uri: https://www.mopesol.com/static/media/Neufreit-ExtraBold.bd0e278f679892f74bb9.otf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\static\media\Neufreit-ExtraBold.bd0e278f679892f74bb9.otf
+Content Type: font/otf
+
+Uri: https://www.mopesol.com/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopesol\www.mopesol.com\static\media\PermanentMarker-Regular.109a10dca0508e41aa12.ttf
+Content Type: font/ttf
+
